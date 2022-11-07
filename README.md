@@ -1,4 +1,9 @@
 Ir documentando cambios <n> \
+IDEAS:
+	
+	integrar el event_finder del GOE para determinar la duración de la ventana para mandar comandos.
+	
+	
 # Pasos iniciales para instalación de software de vuelo
 ## Instalación de Sistema operativo.
 
