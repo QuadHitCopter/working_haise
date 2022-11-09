@@ -34,8 +34,8 @@ Luego se instalaran paquetes necesarios para la instalacion de los drivers
 	
 	sudo apt-get install -y build-essential git raspberrypi-kernel-headers
 
+Otra linea a ejecutar es la siguiente:
 
-	
 	sudo apt-get dist-upgrade -f
 >Seguido de ```Y``` confirmando que aceptamos la instalación. Esto tomara varios minutos asi que solo queda esperar.
 	
