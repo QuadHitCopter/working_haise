@@ -29,14 +29,16 @@ Con el acceso a internet confirmado, ejecutar las siguientes lineas:
 	
 	sudo apt-get update && sudo apt-get install -f
 	
-> ESto actualizará otro aspecto del sistema
+
+Luego se instalaran paquetes necesarios para la instalacion de los drivers
+	
+	sudo apt-get install -y build-essential git raspberrypi-kernel-headers
+
+
 	
 	sudo apt-get dist-upgrade -f
 >Seguido de ```Y``` confirmando que aceptamos la instalación. Esto tomara varios minutos asi que solo queda esperar.
 	
-Luego se instalaran paquetes necesarios para la instalacion de los drivers
-	
-	sudo apt-get install -y build-essential git raspberrypi-kernel-headers
 
 Finalmente se reiniciará el sistema usando ```sudo reboot```
 
