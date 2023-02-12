@@ -43,7 +43,7 @@ Otra linea a ejecutar es la siguiente:
 Finalmente se reiniciará el sistema usando ```sudo reboot```
 
 	
-## Descarga e instalación de driver de TP-Link WN725N  
+## Descarga e instalación de driver de TP-Link WN725N si se cuenta con una Raspberry Pi Zero sin WiFi y se usa el Wifi USB de TPlink.
 Cambiaremos el directorio en el cual descagaremos los archivos con el comando ```cd Downloads```, luego ejecutar la siguiente linea:
 	
 	git clone https://github.com/lwfinger/rtl8188eu.git
